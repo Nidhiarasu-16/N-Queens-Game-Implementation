@@ -1,2 +1,2 @@
 # N-Queens-Game-Implementation
-Welcome to my repository about the implementation of N Queens Game. 
+Welcome to my repository about the implementation of N Queens Game. This repository contains the source code for implementing the game as well as the overall project report of this game from game setup to game implementation. Upon further development, the accessible app for the same game will be uploaded here. Thank you...
